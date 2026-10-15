@@ -1,6 +1,6 @@
 {
-  "version": "1.13.0+1",
+  "version": "1.14.0+1",
   "url": "https://github.com/emmanuelavetta/MediRecordsUpDate/releases/latest/download/app-release.apk",
-  "notes": "Revisione importazione PDF con confronto, tab Unita misura, controlli sul parser, Referti piu affidabili",
-  "sha256": "25b61c42a13bc3b6b835e084fb67f9920996f03efca878804598160e2d6c279a"
+  "notes": "Aggiornamento alla versione 1.14.0+1.",
+  "sha256": "41f7a3e3896a28cf78e72a4f5123f0f7d520b3462cb715cf16d10ef0d9d1be1d"
 }
